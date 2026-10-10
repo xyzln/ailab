@@ -8,6 +8,8 @@
 
 没有框架，没有自动求导，只有一个个你能亲眼看着算出来的数。
 
+![手册涵盖的网络结构](assets/gallery.svg)
+
 ---
 
 ## 为什么要手算
@@ -89,6 +91,8 @@ out/
 | --- | --- |
 | `DeepSeek` | 多头潜在注意力 + 混合专家 |
 
+![DeepSeek 结构：多头潜在注意力与混合专家](assets/deepseek.svg)
+
 ## 怎么用
 
 1. **挑一份**。第一次上手建议从 `basic/Softmax.xlsx` 开始；想系统练计算，走
@@ -122,6 +126,9 @@ src/
 
 想加一份新手册，照着 `src/exercises/data/` 下任一模块的格式写一份版面数据，再到
 `exercises/mod.rs` 里登记一行就行。
+
+`assets/` 下的示意图由 `tools/` 里的脚本生成（`python3 tools/draw_gallery.py`），
+改配色或增删结构条目后重跑即可，不依赖任何外部服务。
 
 ## 许可
 

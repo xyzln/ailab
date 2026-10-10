@@ -15,6 +15,10 @@ pub fn lines() -> Vec<String> {
          \n\
          Copyright (c) 2026 {holder}\n\
          \n\
+         This work is based on ai-by-hand-excel\n\
+         <https://github.com/ImagineAILab/ai-by-hand-excel>,\n\
+         Copyright (c) 2024 Tom Yeh, licensed under the MIT License.\n\
+         \n\
          Permission is hereby granted, free of charge, to any person obtaining a copy\n\
          of this software and associated documentation files (the \"Software\"), to deal\n\
          in the Software without restriction, including without limitation the rights\n\

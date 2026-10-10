@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#95A5A6"/></marker></defs>
+<rect x="0" y="0" width="1200" height="560" rx="6" fill="#FDFBF7"/>
+<line x1="0" y1="0" x2="0" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="24" y1="0" x2="24" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="48" y1="0" x2="48" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="72" y1="0" x2="72" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="96" y1="0" x2="96" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="120" y1="0" x2="120" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="144" y1="0" x2="144" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="168" y1="0" x2="168" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="192" y1="0" x2="192" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="216" y1="0" x2="216" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="240" y1="0" x2="240" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="264" y1="0" x2="264" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="288" y1="0" x2="288" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="312" y1="0" x2="312" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="336" y1="0" x2="336" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="360" y1="0" x2="360" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="384" y1="0" x2="384" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="408" y1="0" x2="408" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="432" y1="0" x2="432" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="456" y1="0" x2="456" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="480" y1="0" x2="480" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="504" y1="0" x2="504" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="528" y1="0" x2="528" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="552" y1="0" x2="552" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="576" y1="0" x2="576" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="600" y1="0" x2="600" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="624" y1="0" x2="624" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="648" y1="0" x2="648" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="672" y1="0" x2="672" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="696" y1="0" x2="696" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="720" y1="0" x2="720" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="744" y1="0" x2="744" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="768" y1="0" x2="768" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="792" y1="0" x2="792" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="816" y1="0" x2="816" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="840" y1="0" x2="840" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="864" y1="0" x2="864" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="888" y1="0" x2="888" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="912" y1="0" x2="912" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="936" y1="0" x2="936" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="960" y1="0" x2="960" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="984" y1="0" x2="984" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="1008" y1="0" x2="1008" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="1032" y1="0" x2="1032" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="1056" y1="0" x2="1056" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="1080" y1="0" x2="1080" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="1104" y1="0" x2="1104" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="1128" y1="0" x2="1128" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="1152" y1="0" x2="1152" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="1176" y1="0" x2="1176" y2="560" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="0" x2="1200" y2="0" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="24" x2="1200" y2="24" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="48" x2="1200" y2="48" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="72" x2="1200" y2="72" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="96" x2="1200" y2="96" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="120" x2="1200" y2="120" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="144" x2="1200" y2="144" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="168" x2="1200" y2="168" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="192" x2="1200" y2="192" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="216" x2="1200" y2="216" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="240" x2="1200" y2="240" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="264" x2="1200" y2="264" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="288" x2="1200" y2="288" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="312" x2="1200" y2="312" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="336" x2="1200" y2="336" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="360" x2="1200" y2="360" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="384" x2="1200" y2="384" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="408" x2="1200" y2="408" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="432" x2="1200" y2="432" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="456" x2="1200" y2="456" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="480" x2="1200" y2="480" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="504" x2="1200" y2="504" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="528" x2="1200" y2="528" stroke="#F0ECE4" stroke-width="1"/>
+<line x1="0" y1="552" x2="1200" y2="552" stroke="#F0ECE4" stroke-width="1"/>
+<text x="30" y="50" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="30" fill="#2C3E50" font-weight="700" text-anchor="start">DeepSeek</text>
+<text x="198" y="50" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="15" fill="#8A94A6" font-weight="400" text-anchor="start">用更少的显存，装下更大的模型</text>
+<rect x="30" y="88" width="550" height="420" rx="14" fill="#FFFFFF" stroke="#E6E1D8" stroke-width="1.5"/>
+<text x="56" y="126" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="17" fill="#2C3E50" font-weight="700" text-anchor="start">多头潜在注意力</text>
+<text x="56" y="148" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="12" fill="#8A94A6" font-weight="500" text-anchor="start">先把 KV 压进低维潜向量，再解压成多头</text>
+<rect x="66" y="236" width="46" height="104" rx="6" fill="#4A90D9"/>
+<circle cx="89" cy="254" r="5" fill="#FFFFFF" opacity="0.75"/>
+<circle cx="89" cy="278" r="5" fill="#FFFFFF" opacity="0.75"/>
+<circle cx="89" cy="302" r="5" fill="#FFFFFF" opacity="0.75"/>
+<circle cx="89" cy="326" r="5" fill="#FFFFFF" opacity="0.75"/>
+<text x="89" y="222" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="13" fill="#8A94A6" font-weight="700" text-anchor="middle">x</text>
+<line x1="116" y1="288" x2="152" y2="288" stroke="#95A5A6" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="156" y="222" width="44" height="132" rx="8" fill="#FFF4E0" stroke="#F5A623" stroke-width="1.8"/>
+<text x="178" y="288" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="15" fill="#F5A623" font-weight="700" text-anchor="middle">W</text>
+<text x="178" y="310" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="10" fill="#F5A623" font-weight="700" text-anchor="middle"><tspan font-size="10">DKV</tspan></text>
+<text x="178" y="206" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="11" fill="#8A94A6" font-weight="600" text-anchor="middle">压缩</text>
+<line x1="204" y1="288" x2="240" y2="288" stroke="#95A5A6" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="244" y="250" width="40" height="76" rx="6" fill="#F5A623"/>
+<text x="264" y="238" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="13" fill="#8A94A6" font-weight="700" text-anchor="middle">c</text>
+<text x="264" y="344" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="11" fill="#8A94A6" font-weight="600" text-anchor="middle">潜向量</text>
+<line x1="288" y1="288" x2="324" y2="288" stroke="#95A5A6" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="328" y="222" width="44" height="132" rx="8" fill="#FFF4E0" stroke="#F5A623" stroke-width="1.8"/>
+<text x="350" y="288" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="15" fill="#F5A623" font-weight="700" text-anchor="middle">W</text>
+<text x="350" y="310" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="10" fill="#F5A623" font-weight="700" text-anchor="middle"><tspan font-size="10">UK</tspan></text>
+<text x="350" y="206" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="11" fill="#8A94A6" font-weight="600" text-anchor="middle">解压</text>
+<line x1="376" y1="288" x2="412" y2="288" stroke="#95A5A6" stroke-width="2" marker-end="url(#ar)"/>
+<text x="433" y="206" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="11" fill="#8A94A6" font-weight="600" text-anchor="middle">多头</text>
+<rect x="416" y="222" width="34" height="42" rx="5" fill="#4A90D9"/>
+<text x="433" y="249" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="13" fill="#FFFFFF" font-weight="700" text-anchor="middle">Q</text>
+<rect x="416" y="268" width="34" height="42" rx="5" fill="#1ABC9C"/>
+<text x="433" y="295" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="13" fill="#FFFFFF" font-weight="700" text-anchor="middle">K</text>
+<rect x="416" y="314" width="34" height="42" rx="5" fill="#9B59B6"/>
+<text x="433" y="341" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="13" fill="#FFFFFF" font-weight="700" text-anchor="middle">V</text>
+<line x1="454" y1="288" x2="490" y2="288" stroke="#95A5A6" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="494" y="236" width="46" height="104" rx="6" fill="#5CB85C"/>
+<circle cx="517" cy="254" r="5" fill="#FFFFFF" opacity="0.75"/>
+<circle cx="517" cy="278" r="5" fill="#FFFFFF" opacity="0.75"/>
+<circle cx="517" cy="302" r="5" fill="#FFFFFF" opacity="0.75"/>
+<circle cx="517" cy="326" r="5" fill="#FFFFFF" opacity="0.75"/>
+<text x="517" y="222" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="13" fill="#8A94A6" font-weight="700" text-anchor="middle">y</text>
+<text x="305" y="466" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="12" fill="#8A94A6" font-weight="500" text-anchor="middle">键值只留一份潜向量，用到时才解压</text>
+<rect x="620" y="88" width="550" height="420" rx="14" fill="#FFFFFF" stroke="#E6E1D8" stroke-width="1.5"/>
+<text x="646" y="126" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="17" fill="#2C3E50" font-weight="700" text-anchor="start">混合专家</text>
+<text x="646" y="148" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="12" fill="#8A94A6" font-weight="500" text-anchor="start">每个词只叫醒少数几个专家</text>
+<rect x="654" y="262" width="46" height="60" rx="6" fill="#4A90D9"/>
+<text x="677" y="248" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="13" fill="#8A94A6" font-weight="700" text-anchor="middle">x</text>
+<line x1="704" y1="292" x2="738" y2="292" stroke="#95A5A6" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="742" y="262" width="62" height="60" rx="8" fill="#EAF2FB" stroke="#4A90D9" stroke-width="1.8"/>
+<text x="773" y="298" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="14" fill="#4A90D9" font-weight="700" text-anchor="middle">路由</text>
+<text x="773" y="246" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="10.5" fill="#8A94A6" font-weight="600" text-anchor="middle">专家打分</text>
+<rect x="840" y="150" width="92" height="52" rx="8" fill="#F5A623" stroke="#E0A04A" stroke-width="1.6"/>
+<text x="886" y="182" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">专家</text>
+<line x1="806" y1="292" x2="836" y2="176" stroke="#D8DFE6" stroke-width="1.6"/>
+<rect x="840" y="218" width="92" height="52" rx="8" fill="#F1F3F6" stroke="#E2E6EC" stroke-width="1.6"/>
+<text x="886" y="250" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="12.5" fill="#A8B2BF" font-weight="700" text-anchor="middle">专家</text>
+<line x1="806" y1="292" x2="836" y2="244" stroke="#D8DFE6" stroke-width="1.6"/>
+<rect x="840" y="286" width="92" height="52" rx="8" fill="#F5A623" stroke="#E0A04A" stroke-width="1.6"/>
+<text x="886" y="318" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">专家</text>
+<line x1="806" y1="292" x2="836" y2="312" stroke="#D8DFE6" stroke-width="1.6"/>
+<rect x="958" y="150" width="92" height="52" rx="8" fill="#F1F3F6" stroke="#E2E6EC" stroke-width="1.6"/>
+<text x="1004" y="182" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="12.5" fill="#A8B2BF" font-weight="700" text-anchor="middle">专家</text>
+<line x1="806" y1="292" x2="954" y2="176" stroke="#D8DFE6" stroke-width="1.6"/>
+<rect x="958" y="218" width="92" height="52" rx="8" fill="#F1F3F6" stroke="#E2E6EC" stroke-width="1.6"/>
+<text x="1004" y="250" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="12.5" fill="#A8B2BF" font-weight="700" text-anchor="middle">专家</text>
+<line x1="806" y1="292" x2="954" y2="244" stroke="#D8DFE6" stroke-width="1.6"/>
+<rect x="958" y="286" width="92" height="52" rx="8" fill="#F1F3F6" stroke="#E2E6EC" stroke-width="1.6"/>
+<text x="1004" y="318" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="12.5" fill="#A8B2BF" font-weight="700" text-anchor="middle">专家</text>
+<line x1="806" y1="292" x2="954" y2="312" stroke="#D8DFE6" stroke-width="1.6"/>
+<line x1="932" y1="176" x2="1076" y2="292" stroke="#F5A623" stroke-width="2.2" marker-end="url(#ar)"/>
+<line x1="932" y1="312" x2="1076" y2="292" stroke="#F5A623" stroke-width="2.2" marker-end="url(#ar)"/>
+<line x1="1076" y1="292" x2="1088" y2="292" stroke="#95A5A6" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="1088" y="262" width="46" height="60" rx="6" fill="#5CB85C"/>
+<text x="1111" y="298" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="13" fill="#FFFFFF" font-weight="700" text-anchor="middle">y</text>
+<text x="1056" y="384" font-family="Noto Sans CJK SC, Helvetica, Arial, sans-serif" font-size="11.5" fill="#8A94A6" font-weight="600" text-anchor="middle">只激活得分最高的少数专家，其余不参与计算</text>
+</svg>
