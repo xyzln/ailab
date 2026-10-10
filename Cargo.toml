@@ -1,0 +1,17 @@
+[package]
+name = "ailab"
+version = "0.1.0"
+edition = "2024"
+authors = ["xyzln"]
+description = "生成可在表格软件中手算的神经网络练习手册"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/xyzln/ailab"
+keywords = ["neural-network", "excel", "education", "spreadsheet"]
+categories = ["science", "command-line-utilities"]
+
+[dependencies]
+rust_xlsxwriter = "0.99.1"
+
+[profile.release]
+opt-level = 2
