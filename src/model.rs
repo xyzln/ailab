@@ -3,8 +3,6 @@
 //! 一个练习手册被描述为若干张「方格纸」（[`SheetSpec`]），每张纸由
 //! 一个基础样式铺底，再在其上叠加具体的单元格。
 
-use crate::style::Style;
-
 /// 单元格内容的种类。
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
 pub enum Kind {
